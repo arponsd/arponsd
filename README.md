@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @arponsd
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on web developer
-- 📫 Goto facebook search  write arith.arpon    .. 
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently doing job in PulseTech ltd as a Asst. Software Engineer
+- 💞️ I’m looking to collaborate on Web Application Development
 
 <!---
 arponsd/arponsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
