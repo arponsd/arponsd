@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arponsd
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently doing job in PulseTech ltd as a Asst. Software Engineer
+- 🌱 I’m currently doing job in PulseTech ltd as a Software Engineer
 - 💞️ I’m looking to collaborate on Web Application Development
 
 <!---
